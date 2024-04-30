@@ -1,0 +1,36 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-left onscroll-image-fade-in"
+id: "spotlight3_3000_Years_Among_Microbes_E"
+title : "3000 Years Among Microbes"
+content: |
+  <p align="left">
+  “3000 Years Among Microbes” speculates on an alternative space future through rapidly evolving technologies from the microbial to the planetary scale, with the logic of “symbiosis” and “kinship.”
+
+  Drawing on science fiction literature, emerging technologies, and post-human perspectives, the project opens up a series of discussions on framing space exploration outside the metaphor of colonization through prototyping, experimental videos, space simulations, online platforms, and stakeholder interviews. In the process of project development, Zone Sound Creative studio and artists visited Taiwan National Space Organization and a NASA lunar mock-up base in the Western Desert during the 1960s space race, filmed on locations, and collected microbial samples. Juxtaposing extreme landscapes with microscopic images blurs the distinction between humans and microbes and further replaces the definition of the human “individual” with the concept of “holobiont.”
+
+  “3,000 Years Among Microbes” is a test of imagination that considers how humans should approach space exploration (colonization), remembering the lessons of the Anthropocene and embedding the concept of symbiosis in the vision of interstellar ecosystems. Because space exploration is highly relevant to the arms race, geopolitics, and economic interests, we hope to propose a new language when “space age” is no longer a fantasy, a language distinguished from the metaphor of colonization, as commercialization turns the universe into a “new frontier” waiting for exploration. From climate change to the wealth gap, we have seen how difficult it is to solve these human-generated problems. In space, we have the opportunity to make better choices right from the start.
+  </p>
+  <h2 align="left">Artist</h2>
+  <h3 align="left"><i>Lythologies</i></h3>
+  <p align="left">
+  Lythologies is a network of artists and researchers. The group was initially brought together at MIT to work on the interdisciplinary project called "3000 Years Among Microbes," which focused on space exploration. Its members include Rae Hsu and Nancy Valladares. Inspired by their initial collaboration, they formed Lythologies to continue their explorations in extreme environments. The group engages in diverse topics, from temporal slippage in the Arctic to experimental baking, botanical travelers in space, and various other narratives inspired by the cosmos.<br><br>
+  Artists ｜Rae Hsu,  Po-Hao Chi,  Nancy Valladares <br>
+
+  Supporting Artist ｜Chucho Ocampo <br>
+
+  CubeSat Installtion｜Hsiang-Fu Chen <br>
+
+  Aerial Photography Guide｜Maggie Coblentz <br>
+
+  Supporting Photography (Taiwan)｜Yao-Xiang Zhang <br>
+
+  Project Mannager｜Caitlin Lai <br>
+
+  Sponsor｜Taiwan Ministry of Culture, MIT (Massachusetts Institute of Technology) <br>
+  </p>
+
+button: 
+  label: "中文版"
+  link: "#spotlight3_3000_Years_Among_Microbes_C"
+image: "images/3000_Years_Among_Microbes.jpg"
+

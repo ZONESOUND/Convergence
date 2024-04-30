@@ -1,0 +1,19 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-left onscroll-image-fade-in"
+id: "spotlight8_The_Three_Little_Pigs_E"
+title : "The Three Little Pigs"
+content: |
+  <p align="left">
+  In this project, three pigs with different roles—holy pig, meat pig, and pet pig—engage in a video chat to share their life experiences. Despite being the same species, the meanings humans assign to them create starkly different relationships and worldviews. The video footage, shot by their owners depicting daily life, uses real-life scenarios with scripted dialogues to juxtapose the lives of the three pigs, creating a space for dialogue and reflection. The work stacks mundane conversations to explore the roles of pigs as food, in faith, and as companions, focusing on the interactions beyond the camera's lens.
+  </p>
+  <h2 align="left">Artist</h2>
+  <h3 align="left"><i>Yu-Chun Lo</i></h3>
+  <p align="left">
+  Yu-Chun Lo was born and raised in New Taipei City, Taiwan, currently based in the Netherlands. Lo’s works explore interpersonal relations and those between humans and other life forms with emphasis on their paradoxical nature and cognitive structures. Most of her works are created through the media of videos, documentaries, installations, and workshops.
+  </p>
+
+button: 
+  label: "中文版"
+  link: "#spotlight8_The_Three_Little_Pigs_C"
+image: "images/The_Three_Little_Pigs.jpg"
+

@@ -1,0 +1,19 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-left onscroll-image-fade-in"
+id: "spotlight10_Snapshots_of_CAVS_E"
+title : "Snapshots of CAVS"
+content: |
+  <p align="left">
+  CAVS would be updated later.
+  </p>
+  <h2 align="left">Artist</h2>
+  <h3 align="left"><i>The Center for Advanced Visual Studies</i></h3>
+  <p align="left">
+  The Center for Advanced Visual Studies (CAVS) was established in 1967 at MIT by artist György Kepes to bring art into contact with current scientific and technical research. Otto Piene took over the management of the center in 1974, inviting professionals and students from diverse backgrounds to contribute to artistic research and broaden its scope and impact. At CAVS, the interdisciplinary creativity manifested in explorations across video, kinetic, light, computation, sound, environmental, performance art, and beyond. The CAVS Archive, now preserved at MIT, includes documentation of collective works such as the legendary 'Centerbeam' project for the 1977 documenta.
+  </p>
+
+button: 
+  label: "中文版"
+  link: "#spotlight10_Snapshots_of_CAVS_C"
+image: "images/Snapshots_of_CAVS.jpg"
+

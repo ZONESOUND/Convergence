@@ -1,0 +1,26 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-left onscroll-image-fade-in"
+id: "spotlight1_Deep_Sensing_E"
+title : "Deep Sensing"
+content: |
+  <i>2022-2024</i></br>
+  <p align="left">
+  Deep Sensing is a multi-channel immersive installation that explores how weather and climate data interact with events in our solar system. Virtual point cloud antennas track the flow of cosmic particles from the Sun to the Earth, generating global wind patterns that are interpreted into immersive visualisations and soundscapes using data and recordings from Irbene radiotelescope.<br><br>
+
+  Deep Sensing traces its origins back to the legendary sound art and radioastronomy symposium "RT-32. Acoustic Space Laboratory” organized by RIXC artists 20 years ago at the Irbene radio telescope in Latvia, after its abandonment by the Soviet armed forces. Re-engaging with the site 20 years later, the artists first tried to understand the captivation of this massive antenna today, when, after the grandiose space conquest plans of the 20th century, we have finally “landed on Earth” – or, if not, as French philosopher Bruno Latour remarks, "at least we have been pointed in... another direction" – as climate change and environmental issues keeps becoming more and more pressing here. Yet, we ask, why is the Earth not enough?<br><br>
+
+  Moreover these giant radio telescopes not only look upwards, they are the unique points of convergence for cosmic rays reaching Earth's surface. In the new visualisation, the radio telescopes are no longer represented as massive objects, but as an immaterial point clouds that rotate, leaving and crossing traces, following the flow of cosmic particles that fly from the Sun to Earth, impact ionospheric clouds, interact with the Earth's atmosphere and create terrestrial wind patterns.<br><br>
+
+  The artists use radio astronomy data from our Solar System combined with environmental recordings from the Irbene radio telescope site to create an immersive soundscape and the 'sensorialized' data experience. Immersive multi-sensory experience they create is an endeavor to make the complex science, impacts and scale of climate-induced environmental change more accessible to the public. Hence, Deep Sensing strives to push the boundaries of climate science by investigating its correlations with space research while contextualizing these interactions in a socio-ecological and geopolitical perspective.<br><br>
+  </p>
+  <h2 align="left">Artist</h2>
+  <h3 align="left"><i>Rasa Smite & Raitis Smits</i></h3>
+  <p align="left">
+  Rasa Smite and Raitis Smits are Riga (Latvia) and Karlsruhe (Germany) based artists and co-founders of RIXC Center for New Media Culture in Riga, Latvia, co-curators of RIXC Art and Science Festival, and chief-editors of Acoustic Space, peer-reviewed journal and book series. Together they create visionary and networked artworks – from pioneering internet radio experiments in the 1990s, to artistic investigations in electromagnetic spectrum and collaborations with radio astronomers, and more recent “techno-ecological” explorations together with climate researchers creating immersive experiences using scientific data, sonification and visualization, AI and XR technologies. Their projects have been nominated (Purvitis Prize 2019, 2021, International Public Arts Award - Eurasian region 2021), awarded (Ars Electronica 1998, Falling Walls - Science Breakthrough 2021) and shown widely including at the Venice Architecture Biennale, Latvian National Museum of Arts, House of Electronic Arts in Basel, Ars Electronica Festival in Linz, and other venues, exhibitions and festivals in Europe, the United States, Canada and Asia.
+  </p>
+
+button: 
+  label: "中文版"
+  link: "#spotlight1_Deep_Sensing_C"
+image: "images/Deep_Sensing.jpg"
+

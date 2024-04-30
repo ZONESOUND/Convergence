@@ -1,0 +1,19 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-left onscroll-image-fade-in"
+id: "spotlight10_Snapshots_of_CAVS_C"
+title : "前衛視覺研究中心檔案"
+content: |
+  <p align="left">
+  本次展覽呈現了多個CAVS Archive中保存的影片以及過往活動海報及圖像。
+  </p>
+  <h2 align="left">藝術家介紹</h2>
+  <h3 align="left"><i>前衛視覺藝術中心</i></h3>
+  <p align="left">
+  前衛視覺藝術中心（CAVS）於1967年在麻省理工成立，創辦人喬治・凱普斯（György Kepes）致力於推動藝術、科學與科技間的跨域合作。最初以邀請知名藝術家參與為主，奧托・皮納（Otto Piene）於1974年接手管理後，廣泛納入不同背景的專業人士和學生，進一步擴展了其活動範圍和影響力。CAVS的創新實踐涵蓋了環境藝術、動態雕塑、光與天空藝術、 影像與媒體藝術、互動參與、電腦運算、聲音及行為等眾多領域。該中心的豐富歷史資料目前由麻省理工特別館藏保存，包括1977年卡塞爾文獻展的標誌性作品《中心光束》詳細文件。
+  </p>
+
+button: 
+  label: "English version"
+  link: "#spotlight10_Snapshots_of_CAVS_E"
+image: "images/Snapshots_of_CAVS.jpg"
+
