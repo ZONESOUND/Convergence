@@ -31,7 +31,21 @@
 
 	
 	<link rel="stylesheet" href="//localhost:1313/css/fontawesome-all.min.css">
-
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+			if (window.location.hash) {
+				var target = document.getElementById(window.location.hash.substring(1));
+				if (target) {
+					setTimeout(() => {
+						target.scrollIntoView({
+							behavior: "smooth",
+							block: "start"
+						});
+					}, 0);
+				}
+			}
+		});
+	</script>
 </head>
 
 
