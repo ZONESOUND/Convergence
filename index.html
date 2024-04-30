@@ -31,21 +31,7 @@
 
 	
 	<link rel="stylesheet" href="//localhost:1313/css/fontawesome-all.min.css">
-	<script>
-		document.addEventListener("DOMContentLoaded", function() {
-			if (window.location.hash) {
-				var target = document.getElementById(window.location.hash.substring(1));
-				if (target) {
-					setTimeout(() => {
-						target.scrollIntoView({
-							behavior: "smooth",
-							block: "start"
-						});
-					}, 0);
-				}
-			}
-		});
-	</script>
+
 </head>
 
 
@@ -961,6 +947,27 @@ The Taiwan Space Agency was founded in 1991 and was restructured in January 2023
 <script src='./js/bundle.min.js'></script>
 
 
-
+		
+	<script>
+		window.onload = function() {
+			console.log("Page fully loaded");
+			if (window.location.hash) {
+				console.log("Hash found: ", window.location.hash);
+				var target = document.getElementById(window.location.hash.substring(1));
+				if (target) {
+					console.log("Target element found: ", target);
+					setTimeout(() => {
+						target.scrollIntoView({
+							behavior: "smooth",
+							block: "start"
+						});
+						console.log("Scroll initiated");
+					}, 100);
+				} else {
+					console.log("No target found for the hash");
+				}
+			}
+		};		
+	</script>
 	</body>
 </html>
